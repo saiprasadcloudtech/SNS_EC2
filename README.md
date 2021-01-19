@@ -1,3 +1,7 @@
+
+#Project Description: Here I am creating a automatic notification service using AWS lambda, SNS and cloud watch.When the production server goes down, the admin or the person incharge must get an email alert so that the production can be brough back online as quickly as possible thus avoiding a major outage situation.
+
+
 Below are the steps to set up SNS notification when a production EC2 server abruptly stops
 
 Step 1 : Create a Lambda function using python boto3
